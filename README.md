@@ -123,4 +123,5 @@ npm start
 
 # 👨‍💻 Author
 
-Uchit Yadav
+- Uchit Yadav
+- Kartik Kashyap
